@@ -1,0 +1,116 @@
+.inicio{
+    background-image: url("Snow3.gif");
+}
+
+#head {
+    background-image: url("space.jpg");
+    width: 100%;
+    height: max-content;
+}
+p{
+    font-weight: bold;
+    font-style: italic;
+    font-size: large;
+    text-align: center;
+}
+img{
+    text-align: center;
+}
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+#contenedor {
+    margin: 0 auto;
+    width: max-content;
+}
+
+.recuadro {
+    margin-left: 10px;
+    padding: 15px;
+    background-color: aliceblue;
+}
+
+#c1 {
+    float: left;
+    height: 260px;
+    padding: 20px;
+    width: 260px;
+}
+
+.imagen {
+    width: 200px;
+    height: 200px;
+    transition: transform 0.3s;
+}
+
+.imagen:hover {
+    transform: scale(1.5);
+}
+
+#btn {
+    background: #ffffff;
+    width: 80px;
+    height: 40px;
+
+    margin: 1%;
+    cursor: pointer;
+    border-radius: 20px;
+
+    margin: 1% auto;
+}
+
+#btn:hover {
+
+    background: #ffffffa9;
+
+}
+
+.icone {
+    width: 30px;
+    padding: 0.3rem 1.6rem;
+
+}
+
+.iniciomega {
+    background-image: url("Neon.jpg");
+}
+
+#head {
+    background-image: url("space.jpg");
+    width: 100%;
+    height: max-content;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+#contenedor {
+    margin: 0 auto;
+    width: max-content;
+}
+
+.recuadro {
+    margin-left: 10px;
+    padding: 15px;
+    background-color: aliceblue;
+}
+
+#c99 {
+    background-color: red;
+    float: left;
+    height: 260px;
+    padding: 20px;
+    width: 260px;
+}
+
+#c98 {
+    background-color: blue;
+    float: left;
+    height: 260px;
+    padding: 20px;
+    width: 260px;
+}
