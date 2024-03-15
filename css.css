@@ -8,47 +8,56 @@
     grid-column: span 3;
     grid-row: span 1;
     border: 2px solid #060505;
+    display: inline-block;
   }
   
   .item2 {
     grid-column: span 1;
     grid-row: span 1;
     border: 2px solid #0a0a0a;
+    display: inline-block;
   }
   .item21 {
     grid-column: span 0;
     grid-row: span 1;
     border: 2px solid #0a0a0a;
+    display: inline-block;
   }
   .item3 {
     grid-column: span 0;
     grid-row: span 1;
     border: 2px solid #121111;
+    display: inline-block;
   }
   .item4 {
     grid-column: span 0;
     grid-row: span 1;
     border: 2px solid #101010;
+    display: inline-block;
   }
   .item5 {
     grid-column: span 2;
     grid-row: span 1;
     border: 2px solid #0d0d0d;
+    display: inline-block;
   }
   .item6 {
     grid-column: span 2;
     grid-row: span 1;
     border: 2px solid #060606;
+    display: inline-block;
   }
   .item7 {
     grid-column: span 0;
     grid-row: span 1;
     border: 2px solid #000000;
+    display: inline-block;
   }
   .flex-container {
     justify-content: center;
     display: flex;
     flex-direction: row;
+    display: inline-block;
   }
   
   .flex-item {
@@ -57,26 +66,31 @@
     border: 1px solid #ddd;
     padding: 5px;
     width: 200px;
+    display: inline-block;
   }
   .flex-items {
     justify-content: center;
     flex: 1;
     border: 1px solid #ddd;
     padding: 10px;
+    display: inline-block;
   }
   .caja1{
     justify-content: center;
     width: 250px;
     height: 450px;
     background-color: blueviolet;
+    display: inline-block;
   }
   .caja2{
     width: 450px;
     height: 250px;
     background-color: rgb(27, 95, 53);
+    display: inline-block;
   }
   .contenedor {
     display: flex;
     justify-content: center;
+    
   }
   
